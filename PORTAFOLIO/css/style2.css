@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(C:/portafolio2/fondo2.jpg)no-repeat center;
+    background-size: cover;
+  }
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 230px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav li {
+    margin-right: 20px;
+  }
+  
+  .nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 3px;
+    padding: 3px;
+  }
+  nav a:hover{
+    background: #ff0000;
+  }
+  
+  .sobremi {
+    align-items: center;
+    padding: 50px 0;
+    text-align: center;
+    background-color: #ff0000;
+    height: 800px;
+    width: 900px;
+  }
+  
+  .sobre {
+    background-color: #000000;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .sobre h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  .sobre p {
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .footer p {
+    font-size: 14px;
+  }
+  .prese{
+    text-align: center;
+    width: 500px;
+    font-size: 20px ;
+  }
+.sub1{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+.contact{
+    margin-top: 0%;
+    background: #ff0000;
+    border: 3px solid rgb(255, 255, 255);
+}
+.redesig{
+    width: 37px;
+    height: 40px;
+    margin-bottom: 25px;
+}
+.redesfb{
+    width: 23px;
+    height: 40px;
+    margin-bottom: 25px;
+}
+.redestw{
+    width: 47px;
+    height: 37px;
+    margin-bottom: 25px;
+}
+.menured{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+.menured li{
+    margin: 20px;
+}

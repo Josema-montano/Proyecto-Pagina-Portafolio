@@ -1,0 +1,29 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background: url(C:/PORTFOLIO/fondo.jpg) no-repeat ;
+}
+h1{
+text-transform: uppercase;
+text-align: center;
+margin-top: 10%;
+margin-bottom: 40px;
+font-size: 211px;
+color: aliceblue;
+
+}
+h3{
+    text-align: center; 
+    font-size: 60px; 
+    color: aliceblue;
+    border: 3px solid aliceblue;
+    border-radius: 50px;
+    padding: 0px;
+    margin-bottom: 7rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
